@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hw1</string>
+    <string name="number_guessing_game">Number Guessing Game</string>
+    <string name="guess_a_number_between_1_and_100">Guess a number between 1 and 100</string>
+    <string name="number_of_tries">Number of tries: 0</string>
+    <string name="guess_button">Guess</string>
+    <string name="guess">Guess</string>
+</resources>
